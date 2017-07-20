@@ -1,0 +1,2 @@
+Added multilevel feedback queue, buddy memory allocation and signals to Pintos(https://web.stanford.edu/class/cs140/projects/pintos/pintos_1.html)
+See 'mlfq and buddy' and 'signals' folders for details. Detailed README included in them.
